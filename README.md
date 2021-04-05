@@ -17,8 +17,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://slimake.github.io/cart-project/)
+A simple E-commerce. i got the HTML & CSS file online, i then decided to some functionality to the cart.
 
 ## Challenge
 Using "document.querySelectorAll()", i had issues getting the updated cart item price when i add a new item to the cart.
